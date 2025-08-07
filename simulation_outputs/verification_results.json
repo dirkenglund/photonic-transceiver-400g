@@ -1,0 +1,10 @@
+{
+  "v_pi_volts": 4.42769447940284,
+  "vswr": 1.3333333333333333,
+  "channel_isolation_db": 1.4048989105895993,
+  "power_total_w": 11.3,
+  "power_efficiency_w_per_gbps": 0.02825,
+  "ber": 3.799961584033067e-07,
+  "link_margin_10km_db": 3.5,
+  "all_specs_pass": false
+}
