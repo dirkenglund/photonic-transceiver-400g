@@ -1,0 +1,181 @@
+{
+  "design_type": "400 Gbps Complete Transceiver",
+  "timestamp": "2025-08-06T20:33:25.707621",
+  "specifications": {
+    "num_channels": 8,
+    "data_rate_per_channel_Gbps": 50,
+    "total_data_rate_Gbps": 400,
+    "channel_spacing_GHz": 100,
+    "center_wavelength_nm": 1550.0,
+    "modulation_format": "PAM4",
+    "technology": "Silicon photonics + TFLN"
+  },
+  "components": {
+    "wdm_filters": {
+      "ch1": {
+        "radius_um": 13.851254697287652,
+        "gap_um": 0.5868034508142219,
+        "Q_loaded": 20000,
+        "wavelength_nm": 1547.2
+      },
+      "ch2": {
+        "radius_um": 13.858416669726788,
+        "gap_um": 0.5868034508142219,
+        "Q_loaded": 20000,
+        "wavelength_nm": 1548.0
+      },
+      "ch3": {
+        "radius_um": 13.865578642165922,
+        "gap_um": 0.5868034508142219,
+        "Q_loaded": 20000,
+        "wavelength_nm": 1548.8
+      },
+      "ch4": {
+        "radius_um": 13.872740614605057,
+        "gap_um": 0.5868034508142219,
+        "Q_loaded": 20000,
+        "wavelength_nm": 1549.6000000000001
+      },
+      "ch5": {
+        "radius_um": 13.879902587044192,
+        "gap_um": 0.5868034508142219,
+        "Q_loaded": 20000,
+        "wavelength_nm": 1550.4
+      },
+      "ch6": {
+        "radius_um": 13.887064559483328,
+        "gap_um": 0.5868034508142219,
+        "Q_loaded": 20000,
+        "wavelength_nm": 1551.2
+      },
+      "ch7": {
+        "radius_um": 13.894226531922463,
+        "gap_um": 0.5868034508142219,
+        "Q_loaded": 20000,
+        "wavelength_nm": 1552.0
+      },
+      "ch8": {
+        "radius_um": 13.901388504361599,
+        "gap_um": 0.5868034508142219,
+        "Q_loaded": 20000,
+        "wavelength_nm": 1552.8
+      }
+    },
+    "modulators": {
+      "ch1": {
+        "length_mm": 4.0,
+        "gap_um": 5,
+        "v_pi_V": 4.49,
+        "bandwidth_GHz": 67,
+        "insertion_loss_dB": 2.5,
+        "extinction_ratio_dB": 30
+      },
+      "ch2": {
+        "length_mm": 4.0,
+        "gap_um": 5,
+        "v_pi_V": 4.49,
+        "bandwidth_GHz": 67,
+        "insertion_loss_dB": 2.5,
+        "extinction_ratio_dB": 30
+      },
+      "ch3": {
+        "length_mm": 4.0,
+        "gap_um": 5,
+        "v_pi_V": 4.49,
+        "bandwidth_GHz": 67,
+        "insertion_loss_dB": 2.5,
+        "extinction_ratio_dB": 30
+      },
+      "ch4": {
+        "length_mm": 4.0,
+        "gap_um": 5,
+        "v_pi_V": 4.49,
+        "bandwidth_GHz": 67,
+        "insertion_loss_dB": 2.5,
+        "extinction_ratio_dB": 30
+      },
+      "ch5": {
+        "length_mm": 4.0,
+        "gap_um": 5,
+        "v_pi_V": 4.49,
+        "bandwidth_GHz": 67,
+        "insertion_loss_dB": 2.5,
+        "extinction_ratio_dB": 30
+      },
+      "ch6": {
+        "length_mm": 4.0,
+        "gap_um": 5,
+        "v_pi_V": 4.49,
+        "bandwidth_GHz": 67,
+        "insertion_loss_dB": 2.5,
+        "extinction_ratio_dB": 30
+      },
+      "ch7": {
+        "length_mm": 4.0,
+        "gap_um": 5,
+        "v_pi_V": 4.49,
+        "bandwidth_GHz": 67,
+        "insertion_loss_dB": 2.5,
+        "extinction_ratio_dB": 30
+      },
+      "ch8": {
+        "length_mm": 4.0,
+        "gap_um": 5,
+        "v_pi_V": 4.49,
+        "bandwidth_GHz": 67,
+        "insertion_loss_dB": 2.5,
+        "extinction_ratio_dB": 30
+      }
+    },
+    "photodetectors": {
+      "ch1": {
+        "responsivity_A_per_W": 1.1,
+        "dark_current_nA": 10,
+        "bandwidth_GHz": 67,
+        "capacitance_fF": 150
+      },
+      "ch2": {
+        "responsivity_A_per_W": 1.1,
+        "dark_current_nA": 10,
+        "bandwidth_GHz": 67,
+        "capacitance_fF": 150
+      },
+      "ch3": {
+        "responsivity_A_per_W": 1.1,
+        "dark_current_nA": 10,
+        "bandwidth_GHz": 67,
+        "capacitance_fF": 150
+      },
+      "ch4": {
+        "responsivity_A_per_W": 1.1,
+        "dark_current_nA": 10,
+        "bandwidth_GHz": 67,
+        "capacitance_fF": 150
+      },
+      "ch5": {
+        "responsivity_A_per_W": 1.1,
+        "dark_current_nA": 10,
+        "bandwidth_GHz": 67,
+        "capacitance_fF": 150
+      },
+      "ch6": {
+        "responsivity_A_per_W": 1.1,
+        "dark_current_nA": 10,
+        "bandwidth_GHz": 67,
+        "capacitance_fF": 150
+      },
+      "ch7": {
+        "responsivity_A_per_W": 1.1,
+        "dark_current_nA": 10,
+        "bandwidth_GHz": 67,
+        "capacitance_fF": 150
+      },
+      "ch8": {
+        "responsivity_A_per_W": 1.1,
+        "dark_current_nA": 10,
+        "bandwidth_GHz": 67,
+        "capacitance_fF": 150
+      }
+    }
+  }
+}

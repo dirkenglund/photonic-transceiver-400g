@@ -1,0 +1,11 @@
+{
+  "tfln_length_mm": 4.0,
+  "electrode_gap_um": 5.0,
+  "tfln_impedance_ohm": 37.5,
+  "v_pi_volts": 4.490055463536298,
+  "bandwidth_ghz": 50.0,
+  "vswr": 1.3333333333333333,
+  "total_power_w": 11.296022185414518,
+  "link_margin_db": 4.610451573470735,
+  "ber": 0.004951926765797376
+}
